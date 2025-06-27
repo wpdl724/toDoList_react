@@ -1,0 +1,14 @@
+main {
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;   
+    margin: 20px; 
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 10px;
+
+}
+main input {
+    text-align: center;
+}
+main button {}

@@ -1,0 +1,12 @@
+li { 
+    border-bottom: 1px solid #000 ;
+    padding: 20px;
+    
+}
+li span{
+    padding: 0 10px ;
+    
+}
+li button{
+    float: right;
+}
